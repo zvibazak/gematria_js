@@ -1,7 +1,7 @@
 # gematria_js
 Minimum Gematria function in JavaScript. Just copy paste to your code. 
 
-Usage
+## Usage
 
 ```javascript
 $chay = get_gematria("חי");
