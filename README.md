@@ -1,5 +1,5 @@
 # gematria_js
-Minimum Gematria function in JavaScript. Just copy paste to your code. 
+Minimum Gematria function written in JavaScript. ***Just copy paste to your code.***
 
 ## Usage
 
