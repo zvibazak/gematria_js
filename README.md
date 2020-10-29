@@ -4,8 +4,8 @@ Minimum Gematria function written in JavaScript. ***Just copy-paste it to your c
 ## Usage
 
 ```javascript
-$chay = get_gematria("חי");
-console.log($chay);
+let chay = get_gematria("חי");
+console.log(chay);
 ```
 
 Output will be: ```18```
